@@ -31,7 +31,7 @@ navbar-links:
     - Variant calling: "https://google.com"
     - Custom: "https://google.com"
   Publications: "https://pubmed.ncbi.nlm.nih.gov/?term=%22varin+alexis%22%5Bauthor%5D&sort=date"
-  RightOmicsTools: "https://alexis-varin.github.io/rightomicstools"
+  R package: "https://alexis-varin.github.io/RightOmicsTools"
 
 ################
 # --- Logo --- #
