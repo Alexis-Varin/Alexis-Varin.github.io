@@ -20,14 +20,18 @@ author: Alexis Varin
 ###############################################
 
 navbar-links:
+  Home: "https://alexis-varin.github.io"
+  Skills: "https://google.com"
   Bioinformatic analyses:
     - Fastq alignment: "https://google.com"
     - Single-cell RNA-seq: "https://google.com"
     - Bulk RNA-seq: "https://google.com"
     - Multi-omics: "https://google.com"
     - Deconvolution: "https://google.com"
+    - Variant calling: "https://google.com"
+    - Custom: "https://google.com"
   Publications: "https://pubmed.ncbi.nlm.nih.gov/?term=%22varin+alexis%22%5Bauthor%5D&sort=date"
-  About Me: "aboutme"
+  RightOmicsTools: "https://alexis-varin.github.io/rightomicstools"
 
 ################
 # --- Logo --- #
@@ -247,7 +251,7 @@ footer-hover-col: "#339AF0" # Blue for footer hover
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%-d %B, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
