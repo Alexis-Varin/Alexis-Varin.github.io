@@ -21,7 +21,6 @@ author: Alexis Varin
 
 navbar-links:
   Home: "https://alexis-varin.github.io"
-  Skills: "https://google.com"
   Bioinformatic analyses:
     - Fastq alignment: "https://google.com"
     - Single-cell RNA-seq: "https://google.com"
@@ -57,8 +56,8 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: alexis-varin
+  email: "alexis.varin@inserm.fr"
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
   linkedin: alexisvarin
@@ -77,6 +76,7 @@ social-network-links:
 #  bluesky: yourname
   ORCID: 0009-0001-3474-7263
   google-scholar: U7_TLW0AAAAJ
+  github: alexis-varin
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
