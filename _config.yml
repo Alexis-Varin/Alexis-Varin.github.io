@@ -22,12 +22,14 @@ author: Alexis Varin
 navbar-links:
   Bioinformatic analyses:
     - Single-cell RNA-seq:
-      - Alignment: "https::google.com"
-      - Processing: "https::google.com"
-      - 
+      - Alignment: "https://google.com"
+      - Processing: "https://google.com"
+      - Downstream: "https://google.com"
     - Bulk RNA-seq:
       - Alignment: "https://www.markdowntutorial.com/"
       - Analysis: "https://www.markdowntutorial.com/"
+    - Multi-omics: "https://google.com"
+    - Deconvolution: "https://google.com"
   Publications: "https://pubmed.ncbi.nlm.nih.gov/?term=%22varin+alexis%22%5Bauthor%5D&sort=date"
   About Me: "aboutme"
 
