@@ -811,6 +811,12 @@ footer.sticky-bottom {
         a.abstract.btn {
           background-color: $light-blue-color;
         }
+        a.doi.btn {
+          background-color: $light-green-color;
+        }
+        a.code.btn {
+          background-color: $light-red-color;
+        }
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
