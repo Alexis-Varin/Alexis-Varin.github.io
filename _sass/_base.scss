@@ -808,6 +808,13 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
+        a.abstract.btn {
+          color: $blue-color;
+
+          &:hover {
+            color: $blue-color;
+          }
+        }
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
