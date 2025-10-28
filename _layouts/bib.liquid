@@ -290,10 +290,10 @@
                 data-arxiv-id="{{ entry.arxiv }}"
               {% elsif entry.eprint %}
                 data-arxiv-id="{{ entry.eprint }}"
-              {% elsif entry.doi %}
-                data-doi="{{ entry.doi }}"
               {% elsif entry.pmid %}
                 data-pmid="{{ entry.pmid }}"
+              {% elsif entry.doi %}
+                data-doi="{{ entry.doi }}"
               {% elsif entry.isbn %}
                 data-isbn="{{ entry.isbn }}"
               {% endif %}
@@ -304,10 +304,10 @@
               class="__dimensions_badge_embed__"
               {% if entry.dimensions != blank and entry.dimensions != 'true' %}
                 data-id="{{ entry.dimensions }}"
-              {% elsif entry.doi %}
-                data-doi="{{ entry.doi }}"
-              {% else %}
+              {% elsif entry.pmid %}
                 data-pmid="{{ entry.pmid }}"
+              {% else %}
+                data-doi="{{ entry.doi }}"
               {% endif %}
               data-style="small_rectangle"
               data-legend="hover-right"
