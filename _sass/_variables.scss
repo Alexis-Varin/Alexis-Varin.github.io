@@ -8,14 +8,15 @@
 // Colors
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
-$light-red-color: color.adjust($red-color, $lightness: 10%);
+$light-red-color: #ff6868 !default;
 $orange-color: #f29105 !default;
 $blue-color: #0076df !default;
 $blue-color-dark: #00369f !default;
-$light-blue-color: color.adjust($blue-color, $lightness: 10%);
+$light-blue-color: #289aff !default;
 $cyan-color: #2698ba !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
 $green-color: #00ab37 !default;
+$light-green-color: #52e16c !default;
 $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
