@@ -282,6 +282,7 @@
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
               class="altmetric-embed"
+              data-hide-no-mentions="true"
               data-badge-type="2"
               data-badge-popover="right"
               {% if entry.altmetric != blank and entry.altmetric != 'true' %}
