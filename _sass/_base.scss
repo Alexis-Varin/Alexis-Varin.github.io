@@ -802,11 +802,6 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
-
-          &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
-          }
         }
         a.abstract.btn {
           background-color: $light-blue-color;
@@ -819,6 +814,9 @@ footer.sticky-bottom {
         }
         a.award.btn {
           border-color: var(--global-highlight-color);
+        }
+        a.btn:hover {
+          background-color: var(--global-theme-color);
         }
       }
 
