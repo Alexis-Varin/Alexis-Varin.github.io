@@ -4,9 +4,8 @@
 "Impact Factor 5-10":
   color: "#c0c0c0"
 
-  "Impact Factor 10-20":
+"Impact Factor 10-20":
   color: "#ffd700"
 
-  "Impact Factor > 20":
+"Impact Factor > 20":
   color: "#00bfff"
-  
