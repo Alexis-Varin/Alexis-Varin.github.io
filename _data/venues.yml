@@ -4,12 +4,12 @@
 
 "Impact Factor 5-10":
   color: "#c0c0c0"
-  textcolor: "#1c1c1d"
+  textcolor: "#212529"
 
 "Impact Factor 10-20":
   color: "#ffd700"
-  textcolor: "#1c1c1d"
+  textcolor: "#212529"
 
 "Impact Factor > 20":
   color: "#00bfff"
-  textcolor: "#1c1c1d"
+  textcolor: "#212529"
