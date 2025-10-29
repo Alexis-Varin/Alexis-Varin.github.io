@@ -3,4 +3,4 @@ repo_description_lines_max: 2
 github_repos:
   - Alexis-Varin/RightOmicsTools
   - InsermRightLab/MOFA2-Tinel-et-al
-  -InsermRightLab/LILRB2-Varin-et-al
+  - InsermRightLab/LILRB2-Varin-et-al
