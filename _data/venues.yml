@@ -1,9 +1,12 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Impact Factor < 5":
+  color: "#cd7f32"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Impact Factor 5-10":
+  color: "#c0c0c0"
 
-"Vision":
-  color: "#009f36"
+  "Impact Factor 10-20":
+  color: "#ffd700"
+
+  "Impact Factor > 20":
+  color: "#00bfff"
+  
