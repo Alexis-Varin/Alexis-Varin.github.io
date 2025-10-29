@@ -4,7 +4,7 @@ title: Bioinformatic analyses
 permalink: /bioinformatic-analyses/
 description: This portfolio presents a selection of bioinformatic methods and pipelines I routinely use. While this list reflects my current expertise, I can also implement new analyses upon request, provided that relevant R packages or Python libraries are available.
 To support computationally intensive projects, I have remote access to the Mésocentre de Franche-Comté supercomputing facilities. This includes high-memory nodes (up to 1TB RAM) for large-scale data processing (e.g., expression matrices with millions of cells) and Nvidia A100 40GB GPUs for machine learning and AI model training and inference.
-For questions or inquiries about collaborations, please contact me using the social links in the <a href="https://Alexis-Varin.github.io/">Contact</a> section.
+For questions or inquiries about collaborations, please contact me using the social links in the Contact section.
 nav: true
 nav_order: 2
 display_categories: 
