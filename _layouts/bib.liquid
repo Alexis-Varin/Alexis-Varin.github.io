@@ -6,15 +6,16 @@
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
+          {% assign text_style = null %}
           {% if site.data.venues[entry.abbr].color != blank or site.data.venues[entry.abbr].textcolor != blank %}
             {% assign venue_style = 'style="' %}
             {% if site.data.venues[entry.abbr].color != blank %}
               {% assign venue_style = venue_style | append: 'background-color:' | append: site.data.venues[entry.abbr].color | append: ';' %}
             {% endif %}
             {% if site.data.venues[entry.abbr].textcolor != blank %}
-              {% assign venue_style = venue_style | append: 'color:' | append: site.data.venues[entry.abbr].textcolor | append: ' !important;' %}
+              {% assign venue_style = venue_style | append: 'color:' | append: site.data.venues[entry.abbr].textcolor | append: ';"' %}
+              {% assign text_style = 'style="color:' | append: site.data.venues[entry.abbr].textcolor | append: ';"' %}
             {% endif %}
-            {% assign venue_style = venue_style | append: '"' %}
           {%- endif -%}
           <abbr
             class="badge rounded w-100"
@@ -23,9 +24,9 @@
             {% endif -%}
           >
             {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+              <a href="{{ site.data.venues[entry.abbr].url }}" {% if text_style %}{{ text_style }}{% endif %}>{{ entry.abbr }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <div {% if text_style %}{{ text_style }}{% endif %}>{{- entry.abbr -}}</div>
             {% endif %}
           </abbr>
         {% else %}
