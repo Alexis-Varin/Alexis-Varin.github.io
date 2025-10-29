@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Contact
 permalink: /
 subtitle: <a href='#'>PhD</a>. Contact me using social links above.
 
