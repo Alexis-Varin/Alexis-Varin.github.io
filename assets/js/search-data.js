@@ -47,6 +47,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Bulk_biomex.html";
+            },},{id: "projects-diablo",
+          title: 'DIABLO',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Multiomics_diablo.html";
             },},{id: "projects-alignment",
           title: 'Alignment',
           description: "",
