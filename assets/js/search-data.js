@@ -42,6 +42,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Bulk_alignment.html";
+            },},{id: "projects-biomex",
+          title: 'BIOMEX',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Bulk_biomex.html";
             },},{id: "projects-alignment",
           title: 'Alignment',
           description: "",
