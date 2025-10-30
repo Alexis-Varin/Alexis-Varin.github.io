@@ -77,6 +77,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc_seurat.html";
+            },},{id: "projects-visium",
+          title: 'Visium',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spatial_visium.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
