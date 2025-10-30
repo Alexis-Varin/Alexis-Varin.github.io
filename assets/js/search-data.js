@@ -47,6 +47,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc_alignment.html";
+            },},{id: "projects-alignment",
+          title: 'Alignment',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sc_pseudotime.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
