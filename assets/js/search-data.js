@@ -47,11 +47,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc_alignment.html";
-            },},{id: "projects-alignment",
-          title: 'Alignment',
+            },},{id: "projects-pseudotime",
+          title: 'Pseudotime',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc_pseudotime.html";
+            },},{id: "projects-seurat-scanpy",
+          title: 'Seurat/Scanpy',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sc_seurat.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
