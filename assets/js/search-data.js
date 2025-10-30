@@ -37,7 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "projects-alignment",
+          title: 'Alignment',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project.html";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
