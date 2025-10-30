@@ -41,7 +41,7 @@ ninja.data = [{
           title: 'Alignment',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/Bulk_alignment.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
