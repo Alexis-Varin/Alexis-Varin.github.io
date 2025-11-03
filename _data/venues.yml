@@ -1,6 +1,6 @@
 "Impact Factor < 5":
-  color: "#a05822"
-  textcolor: "#ffffff"
+  color: "#cd7f32"
+  textcolor: "#212529"
 
 "Impact Factor 5-10":
   color: "#c0c0c0"
@@ -13,3 +13,7 @@
 "Impact Factor > 20":
   color: "#00bfff"
   textcolor: "#212529"
+
+"Preprint"
+  color: "#590855"
+  textcolor: "#ffffff"
