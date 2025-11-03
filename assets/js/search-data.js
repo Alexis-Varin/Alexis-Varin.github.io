@@ -87,6 +87,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc_seurat.html";
+            },},{id: "projects-deconvolution",
+          title: 'Deconvolution',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spatial_deconvolution.html";
             },},{id: "projects-geomx",
           title: 'GeoMx',
           description: "",
