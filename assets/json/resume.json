@@ -1,10 +1,19 @@
 {
   "basics": {
     "name": "Alexis Varin",
+    "label": "",
     "image": "",
     "email": "alexis.varin@inserm.fr",
+    "phone": "",
     "url": "https://www.linkedin.com/in/alexisvarin/",
     "summary": "Expertise in transcriptomic data analysis (single-cell, bulk RNA-seq and microarray), immunology and biochemistry.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
     "profiles": [
       {
         "network": "Linkedin",
@@ -73,7 +82,8 @@
       "studyType": "MSc",
       "startDate": "2011-06-30",
       "endDate": "2009-09-01",
-      "score": "10"
+      "score": "10",
+      "courses": [""]
     },
     {
       "institution": "Galway-Mayo Institute of Technology",
@@ -83,7 +93,8 @@
       "studyType": "BSc",
       "startDate": "2009-06-30",
       "endDate": "2008-09-01",
-      "score": "10"
+      "score": "10",
+      "courses": [""]
     },
     {
       "institution": "Institut Universitaire et Technologique",
@@ -93,8 +104,36 @@
       "studyType": "BTEC HND",
       "startDate": "2008-06-30",
       "endDate": "2006-09-01",
-      "score": "10"
+      "score": "10",
+      "courses": [""]
     },
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
   ],
   "skills": [
     {
@@ -135,6 +174,13 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "icon": "",
+      "reference": ""
     }
   ],
   "projects": [
