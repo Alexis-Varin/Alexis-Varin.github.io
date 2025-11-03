@@ -87,6 +87,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc_seurat.html";
+            },},{id: "projects-variant-calling",
+          title: 'Variant calling',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sc_variant_calling.html";
             },},{id: "projects-deconvolution",
           title: 'Deconvolution',
           description: "",
