@@ -22,7 +22,7 @@
       "endDate": "2019-08-31",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Computer Vision", "MATLAB", "Dermatology"]
-    }
+    },
     {
       "name": "Lipidomic Analytical Platform (U1231)",
       "position": "Research Engineer",
@@ -31,7 +31,7 @@
       "endDate": "2022-10-31",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Mass Spectrometry", "Lipids", "Biochemistry"]
-    }
+    },
     {
       "name": "Inserm UMR RIGHT (U1098)",
       "position": "Research Engineer",
@@ -64,7 +64,7 @@
       "endDate": "2011-10-01",
       "score": "10",
       "courses": ["Characterization of new LXR target genes and consequences on lipid metabolism and atherosclerosis"]
-    }
+    },
     {
       "institution": "Université de Bourgogne",
       "location": "Dijon, France",
@@ -74,7 +74,7 @@
       "startDate": "2011-06-30",
       "endDate": "2009-09-01",
       "score": "10"
-    }
+    },
     {
       "institution": "Galway-Mayo Institute of Technology",
       "location": "Galway, Ireland",
@@ -84,7 +84,7 @@
       "startDate": "2009-06-30",
       "endDate": "2008-09-01",
       "score": "10"
-    }
+    },
     {
       "institution": "Institut Universitaire et Technologique",
       "location": "Dijon, France",
@@ -94,7 +94,7 @@
       "startDate": "2008-06-30",
       "endDate": "2006-09-01",
       "score": "10"
-    }
+    },
   ],
   "skills": [
     {
