@@ -67,11 +67,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc_cellchat.html";
-            },},{id: "projects-gsea",
-          title: 'GSEA',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/sc_gsea.html";
             },},{id: "projects-pseudotime",
           title: 'Pseudotime',
           description: "",
