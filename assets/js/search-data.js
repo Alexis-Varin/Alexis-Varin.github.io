@@ -47,6 +47,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Bulk_biomex.html";
+            },},{id: "projects-deconvolution",
+          title: 'Deconvolution',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Bulk_deconvolution.html";
             },},{id: "projects-diablo",
           title: 'DIABLO',
           description: "",
@@ -67,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc_cellchat.html";
+            },},{id: "projects-gsea",
+          title: 'GSEA',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sc_gsea.html";
             },},{id: "projects-pseudotime",
           title: 'Pseudotime',
           description: "",
@@ -77,6 +87,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc_seurat.html";
+            },},{id: "projects-geomx",
+          title: 'GeoMx',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spatial_geomx.html";
             },},{id: "projects-visium",
           title: 'Visium',
           description: "",
