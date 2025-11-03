@@ -69,8 +69,8 @@
       "url": "https://www.ube.fr/",
       "area": "Biochemistry",
       "studyType": "PhD",
-      "startDate": "2014-09-30",
-      "endDate": "2011-10-01",
+      "startDate": "2011-10-01",
+      "endDate": "2014-09-30",
       "score": "10",
       "courses": ["Characterization of new LXR target genes and consequences on lipid metabolism and atherosclerosis"]
     },
@@ -80,8 +80,8 @@
       "url": "https://www.ube.fr/",
       "area": "Biochemistry and Molecular Biology",
       "studyType": "MSc",
-      "startDate": "2011-06-30",
-      "endDate": "2009-09-01",
+      "startDate": "2009-09-01",
+      "endDate": "2011-06-30",
       "score": "10",
       "courses": [""]
     },
@@ -91,8 +91,8 @@
       "url": "https://www.atu.ie/",
       "area": "Applied Biology and Biopharmaceutical Science",
       "studyType": "BSc",
-      "startDate": "2009-06-30",
-      "endDate": "2008-09-01",
+      "startDate": "2008-09-01",
+      "endDate": "2009-06-30",
       "score": "10",
       "courses": [""]
     },
@@ -102,8 +102,8 @@
       "url": "https://iutdijon.u-bourgogne.fr/",
       "area": "General Biology",
       "studyType": "BTEC HND",
-      "startDate": "2008-06-30",
-      "endDate": "2006-09-01",
+      "startDate": "2006-09-01",
+      "endDate": "2008-06-30",
       "score": "10",
       "courses": [""]
     }
