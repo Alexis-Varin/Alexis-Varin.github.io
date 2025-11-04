@@ -8,15 +8,15 @@
     "url": "https://www.linkedin.com/in/alexisvarin/",
     "summary": "Expertise in transcriptomic data analysis (single-cell, bulk RNA-seq and microarray), immunology and biochemistry.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "15 Bd Mal de Lattre de Tassigny",
+      "postalCode": "21000",
+      "city": "Dijon",
+      "countryCode": "FR",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Linkedin",
+        "network": "LinkedIn",
         "username": "alexisvarin",
         "url": "https://www.linkedin.com/in/alexisvarin/"
       }
@@ -26,6 +26,7 @@
     {
       "name": "Inserm UMR RIGHT (U1098)",
       "position": "Research Engineer",
+      "location": "Besançon, France",
       "url": "https://umr-right.com/",
       "startDate": "2015-04-07",
       "endDate": "2019-08-31",
@@ -35,6 +36,7 @@
     {
       "name": "Lipidomic Analytical Platform (U1231)",
       "position": "Research Engineer",
+      "location": "Dijon, France",
       "url": "https://diviomics.com/",
       "startDate": "2019-09-01",
       "endDate": "2022-10-31",
@@ -44,6 +46,7 @@
     {
       "name": "Inserm UMR RIGHT (U1098)",
       "position": "Research Engineer",
+      "location": "Dijon, France",
       "url": "https://umr-right.com/",
       "startDate": "2022-11-01",
       "endDate": "Present",
@@ -82,8 +85,7 @@
       "studyType": "MSc",
       "startDate": "2009-09-01",
       "endDate": "2011-06-30",
-      "score": "10",
-      "courses": [""]
+      "score": "10"
     },
     {
       "institution": "Galway-Mayo Institute of Technology",
@@ -93,8 +95,7 @@
       "studyType": "BSc",
       "startDate": "2008-09-01",
       "endDate": "2009-06-30",
-      "score": "10",
-      "courses": [""]
+      "score": "10"
     },
     {
       "institution": "Institut Universitaire et Technologique",
@@ -104,8 +105,7 @@
       "studyType": "BTEC HND",
       "startDate": "2006-09-01",
       "endDate": "2008-06-30",
-      "score": "10",
-      "courses": [""]
+      "score": "10"
     }
   ],
   "awards": [
@@ -137,16 +137,11 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        ""
       ]
     }
   ],
@@ -164,15 +159,10 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        ""
       ]
     }
   ],
@@ -185,12 +175,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "",
+      "summary": "",
+      "highlights": [""],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
