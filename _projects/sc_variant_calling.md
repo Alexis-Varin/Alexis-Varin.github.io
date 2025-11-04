@@ -5,7 +5,8 @@ description:
 img: assets/img/sc_variant_calling_front.png
 importance: 6
 category: Single-cell RNA-seq
-related_publications: true
+related_publications: false
 ---
+
 
 Test
