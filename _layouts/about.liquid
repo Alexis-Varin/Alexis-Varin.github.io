@@ -16,7 +16,7 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}" style="margin-left: 1rem; margin-right: 1rem;">
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}" style="padding-left: 1rem; padding-right: 1rem;">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
