@@ -27,7 +27,9 @@ announcements:
 
 <div class="row">
     <div class="col-sm p-0 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Inserm_with_Right.jpg" href="https://umr-right.com" target="_blank" rel="noopener noreferrer" class="img-fluid rounded z-depth-1" %}
+      <a href="https://umr-right.com" target="_blank" rel="noopener noreferrer">
+        {% include figure.liquid loading="eager" path="assets/img/Inserm_with_Right.jpg" title="go to the Inserm UMR RIGHT's website" class="img-fluid rounded z-depth-1" %}
+      </a>
     </div>
 </div>
 Welcome to my GitHub portfolio, where you will find an overview of the bioinformatic analyses and visualizations I develop for internal and collaborative research projects.
