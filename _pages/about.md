@@ -15,7 +15,6 @@ profile:
     <br>
     <br>
     <br>
-    <br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
