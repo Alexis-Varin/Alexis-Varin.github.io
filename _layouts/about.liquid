@@ -59,7 +59,7 @@ layout: default
     {% if page.selected_papers %}
       <h2>Featured publications</h2>
       {% include selected_papers.liquid %}
-      {% if site.publications != blank %}<a href="{{ '/publications/' | relative_url }}" style="color: inherit"><u>View more...</u></a>{% endif %}
+      <a href="{{ '/publications/' | relative_url }}" style="color: inherit"><u>View more...</u></a>
     {% endif %}
 
     <!-- Social -->
