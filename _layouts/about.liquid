@@ -44,7 +44,7 @@ layout: default
     {% if page.announcements and page.announcements.enabled %}
       <h2>Latest news</h2>
       {% include news.liquid limit=true %}
-      {% if site.news != blank %}<a href="{{ '/news/' | relative_url }}" class="link-custom">View more...</a>{% endif %}
+      {% if site.news != blank %}<a href="{{ '/news/' | relative_url }}">View more...</a>{% endif %}
     {% endif %}
 
     <!-- Latest posts -->
@@ -59,7 +59,7 @@ layout: default
     {% if page.selected_papers %}
       <h2>Featured publications</h2>
       {% include selected_papers.liquid %}
-      <a href="{{ '/publications/' | relative_url }}" class="link-custom">View more...</a>
+      <a href="{{ '/publications/' | relative_url }}">View more...</a>
     {% endif %}
 
     <!-- Social -->
