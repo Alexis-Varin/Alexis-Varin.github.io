@@ -132,6 +132,18 @@ blockquote {
   }
 }
 
+// My links
+
+.link-custom {
+  color: var(--global-theme-color);
+  text-decoration: underline;
+  transition: text-decoration 0.2s ease;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 // Checklist
 
 ul.task-list {
