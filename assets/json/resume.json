@@ -30,7 +30,7 @@
       "url": "https://umr-right.com/",
       "startDate": "2015-04-07",
       "endDate": "2019-08-31",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "I helped develop a tool to assist in the analysis of images generated from an optical imaging device (OCT) intended for dermatologists for an ANR-funded project.",
       "highlights": ["Computer Vision", "MATLAB", "Dermatology"]
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://diviomics.com/",
       "startDate": "2019-09-01",
       "endDate": "2022-10-31",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Mass Spectrometry", "Lipids", "Biochemistry"]
+      "summary": "I helped perform targeted mass spectrometry (QqQ) analyses coupled with chromatography (HPLC, GC) of lipids and other hydrophobic molecules for various research projects.",
+      "highlights": ["Chromatography", "Mass Spectrometry", "Lipids", "Biochemistry"]
     },
     {
       "name": "Inserm UMR RIGHT (U1098)",
@@ -50,7 +50,7 @@
       "url": "https://umr-right.com/",
       "startDate": "2022-11-01",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "I am currently in the MINT (Monocytes In kidNey Transplantation) team to lead, conduct, and provide training for all types of bioinformatics analyses, with a particular focus on single-cell RNA-seq.",
       "highlights": ["Transcriptomics", "R", "Python", "Immunology"]
     }
   ],
