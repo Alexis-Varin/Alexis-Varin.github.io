@@ -8,10 +8,10 @@
     "url": "https://www.linkedin.com/in/alexisvarin/",
     "summary": "Expertise in transcriptomic data analysis (single-cell, bulk RNA-seq and microarray), immunology and biochemistry.",
     "location": {
-      "address": "15 Bd Mal de Lattre de Tassigny",
-      "postalCode": "21000",
-      "city": "Dijon",
-      "countryCode": "FR",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
@@ -50,7 +50,7 @@
       "url": "https://umr-right.com/",
       "startDate": "2022-11-01",
       "endDate": "Present",
-      "summary": "I am currently in the MINT (Monocytes In kidNey Transplantation) team to lead, conduct, and provide training for all types of bioinformatic analyses, with a focus on single-cell RNA-seq.",
+      "summary": "I am currently in the MINT (Monocytes In kidNey Transplantation) team to lead, conduct, develop and provide training for all types of bioinformatic analyses, with a focus on single-cell RNA-seq.",
       "highlights": ["Transcriptomics", "R", "Python", "Immunology"]
     }
   ],
