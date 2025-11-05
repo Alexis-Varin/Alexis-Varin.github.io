@@ -107,6 +107,21 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/spatial_visium.html";
+            },},{id: "projects-regression",
+          title: 'Regression',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stats_regression.html";
+            },},{id: "projects-survival",
+          title: 'Survival',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stats_survival.html";
+            },},{id: "projects-tests",
+          title: 'Tests',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stats_tests.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
