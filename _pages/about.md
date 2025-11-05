@@ -8,9 +8,9 @@ profile:
   image: 1686337700193.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p style="font-size: 0.9rem;">Bat B3 Médecine - bureau 205</p>
-    <p style="font-size: 0.9rem;">15 Bd Mal de Lattre de Tassigny</p>
-    <p style="font-size: 0.9rem;">21000 Dijon, France</p>
+    <p style="font-size: 0.85rem;">Bat B3 Médecine - bureau 205</p>
+    <p style="font-size: 0.85rem;">15 Bd Mal de Lattre de Tassigny</p>
+    <p style="font-size: 0.85rem;">21000 Dijon, France</p>
     <br>
     <br>
     <br>
