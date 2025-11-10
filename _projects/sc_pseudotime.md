@@ -38,8 +38,9 @@ Determining which genes are differentially expressed between trajectories is key
     </div>
 </div>
 <div class="caption">
-    Figure 2: Examples of different visualizations of smoothed gene expression from tradeSeq obtained using the <a href="https://Alexis.varin.github.io/RightOmicsTools">RightOmicsTools</a> package. A: Heatmap on a single trajectory. B: Scatterplot of normalized expression and average smoothed expression on all trajectories.
+    Figure 2: Examples of different visualizations of smoothed gene expression from tradeSeq obtained using the <a href="https://Alexis-varin.github.io/RightOmicsTools">RightOmicsTools</a> package. A: Heatmap on a single trajectory. B: Scatterplot of normalized expression and average smoothed expression on all trajectories.
 </div>
 
 
 You can find additional examples of slingshot and tradeSeq use in {% cite Ramon2025-bm %}.
+
