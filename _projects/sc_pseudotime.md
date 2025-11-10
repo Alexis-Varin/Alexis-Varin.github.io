@@ -23,7 +23,7 @@ Among the <a href="https://github.com/agitter/single-cell-pseudotime">many metho
     </div>
 </div>
 <div class="caption">
-    Figure 1: Examples of pseudotime analysis on classical monocyte differentiation to non-classical monocytes or macrophages from {% cite Varin2025.04.21.25324260 %} with three different methods. A: Trajectories obtained from slingshot. B: MST structure obtained from Lamian. C: Trajectories obtained from Monocle3.
+    Figure 1: Examples of pseudotime analysis on classical monocyte differentiation to non-classical monocytes or macrophages from {% cite Varin2025.04.21.25324260 %} with three methods. A: Trajectories obtained from slingshot. B: MST structure obtained from Lamian. C: Trajectories obtained from Monocle3.
 </div>
 
 <h3>tradeSeq</h3>
@@ -38,7 +38,8 @@ Determining which genes are differentially expressed between trajectories is key
     </div>
 </div>
 <div class="caption">
-    Figure 2: Examples of different visualizations of smoothed gene expression from tradeSeq obtained using the <a href="https://Alexis.varin.github.io/RightOmicsTools">RightOmicsTools</a> package. A: Heatmap of several genes on a single trajectory. B: Scatterplot of normalized expression and average smoothed expression of several genes for all trajectories.
+    Figure 2: Examples of different visualizations of smoothed gene expression from tradeSeq obtained using the <a href="https://Alexis.varin.github.io/RightOmicsTools">RightOmicsTools</a> package. A: Heatmap on a single trajectory. B: Scatterplot of normalized expression and average smoothed expression on all trajectories.
 </div>
+
 
 You can find additional examples of slingshot and tradeSeq use in {% cite Ramon2025-bm %}.
