@@ -17,3 +17,7 @@
 "Preprint":
   color: "#590855"
   textcolor: "#ffffff"
+
+"Dataset":
+  color: "#caeec2"
+  textcolor: "#212529"
