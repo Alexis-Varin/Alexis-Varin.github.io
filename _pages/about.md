@@ -28,10 +28,10 @@ announcements:
 <div class="row">
     <div class="col-sm p-0 mt-3 mt-md-0">
       <a href="https://umr-right.com" target="_blank" rel="noopener noreferrer">
-        {% include figure.liquid loading="eager" path="assets/img/Inserm_with_Right.jpg" title="go to the Inserm UMR RIGHT's website" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Inserm_with_Right.jpg" title="go to the Inserm UMR Right's website" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
 </div>
 Welcome to my GitHub portfolio, where you will find an overview of the bioinformatic analyses and visualizations I develop for internal and collaborative research projects.
 
-I am a research engineer in the <a href="https://umr-right.com" target="_blank" rel="noopener noreferrer">Inserm UMR RIGHT (U1098) lab</a> who focuses mainly on the analysis of transcriptomic data, such as bulk RNA-seq and microarray, and specialize in single-cell RNA-Seq, where I have developed an expertise in a large array of methods: alignment of sequenced data, Seurat analysis (QC, integration, etc) and more specialized analyses such as pseudotime inference, cell-cell communication, variant calling, and much more... You can contact me using the links in the navigation bar.
+I am a research engineer in the <a href="https://umr-right.com" target="_blank" rel="noopener noreferrer">Inserm UMR Right (U1098) lab</a> who focuses mainly on the analysis of transcriptomic data, such as bulk RNA-seq and microarray, and specialize in single-cell RNA-Seq, where I have developed an expertise in a large array of methods: alignment of sequenced data, Seurat analysis (QC, integration, etc) and more specialized analyses such as pseudotime inference, cell-cell communication, variant calling, and much more... You can contact me using the links in the navigation bar.
