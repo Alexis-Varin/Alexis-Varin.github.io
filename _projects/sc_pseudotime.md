@@ -24,12 +24,12 @@ Among the <a href="https://github.com/agitter/single-cell-pseudotime">many metho
     </div>
 </div>
 <div class="caption">
-    Figure 1: Examples of pseudotime analysis on classical monocyte differentiation to non-classical monocytes or macrophages from {% cite Varin2025.04.21.25324260 %} with three methods. A: Trajectories obtained from slingshot. B: MST structure obtained from Lamian. C: Trajectories obtained from Monocle3.
+    Figure 1: Examples of pseudotime analysis on classical monocyte differentiation to non-classical monocytes or macrophages from {% cite Varin2025.04.21.25324260 %} with three methods. A: Trajectories obtained from <a href="https://github.com/kstreet13/slingshot">slingshot</a>. B: MST structure obtained from <a href="https://github.com/Winnie09/Lamian">Lamian</a>. C: Trajectories obtained from <a href="https://cole-trapnell-lab.github.io/monocle3/">Monocle3</a>.
 </div>
 
 <br>
 <h3>tradeSeq</h3>
-Determining which genes are differentially expressed between trajectories is key in understanding the biological switches responsible for cell fate decision.
+Determining which genes are differentially expressed between trajectories is key to understanding the biological switches responsible for cell fate decisions. For this purpose, the same team behind slingshot developed <a href="https://github.com/statOmics/tradeSeq">tradeSeq</a>, a package built as a direct follow-up to slingshot. TradeSeq fits a negative binomial generalized additive model (NB-GAM) to smooth gene expression along trajectories and provides statistical tools to identify differentially expressed genes between lineages. While tradeSeq includes visualization functions, the package <a href="https://Alexis-varin.github.io/RightOmicsTools">RightOmicsTools</a> further extends these capabilities, offering additional features such as a heatmap with cell density along trajectories (Figure 2A) and an enhanced version of tradeSeq’s scatterplot and smoothed curves (Figure 2B).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,12 +40,13 @@ Determining which genes are differentially expressed between trajectories is key
     </div>
 </div>
 <div class="caption">
-    Figure 2: Examples of different visualizations of smoothed gene expression from tradeSeq obtained using the <a href="https://Alexis-varin.github.io/RightOmicsTools">RightOmicsTools</a> package. A: Heatmap on a single trajectory. B: Scatterplot of normalized expression and average smoothed expression on all trajectories.
+    Figure 2: Examples of different visualizations of smoothed gene expression from <a href="https://github.com/statOmics/tradeSeq">tradeSeq</a> obtained using the <a href="https://Alexis-varin.github.io/RightOmicsTools">RightOmicsTools</a> package. A: Heatmap on a single trajectory. B: Scatterplot of normalized expression and average smoothed expression on all trajectories.
 </div>
 
-You can find additional examples of slingshot and tradeSeq use in {% cite Ramon2025-bm %}.
+Finally, you can find additional examples of slingshot and tradeSeq use in {% cite Ramon2025-bm %}.
 <br>
 <br>
 <br>
+
 
 
