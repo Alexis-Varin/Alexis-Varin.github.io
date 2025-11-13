@@ -5,7 +5,7 @@ title: Code
 nav: true
 nav_order: 3
 ---
-This section compiles repositories containing code developed for published studies or preprints, ensuring reproducibility and transparency in our analyses. In addition, I am developing an R package called RightOmicsTools, which provides tools and functions to facilitate Omics analyses.
+This section compiles repositories containing the code developed for published studies or preprints, ensuring reproducibility and transparency in the analyses. In addition, I am developing an R package called RightOmicsTools, which provides tools and functions to facilitate Omics analyses, with a particular focus on single-cell RNA-seq.
 
 {% if site.data.repositories.github_users %}
 
