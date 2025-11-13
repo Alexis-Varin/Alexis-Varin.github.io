@@ -7,6 +7,7 @@ nav_order: 3
 ---
 This section compiles repositories containing the code developed for published studies or preprints, ensuring reproducibility and transparency in the analyses. In addition, I am developing an R package called RightOmicsTools, which provides tools and functions to facilitate Omics analyses, with a particular focus on single-cell RNA-seq.
 
+<br>
 {% if site.data.repositories.github_users %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
