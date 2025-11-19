@@ -57,6 +57,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Multiomics_diablo.html";
+            },},{id: "projects-mcia",
+          title: 'MCIA',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Multiomics_mcia.html";
             },},{id: "projects-mofa2",
           title: 'MOFA2',
           description: "",
