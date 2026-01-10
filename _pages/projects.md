@@ -13,7 +13,7 @@ To support computationally intensive projects, I have access to the <a href="htt
 
 For questions or collaboration inquiries, you can reach me using the links in the navigation bar of the <a href="{{ '/' | relative_url }}">Contact</a> section.
 
-Currently under construction, the various analyses will be progressively completed. In the meantime, the publication <a href="https://www.medrxiv.org/content/10.1101/2025.04.21.25324260">A subset of pro-inflammatory CXCL10+ LILRB2+ macrophages derives from recipient monocytes and drives renal allograft rejection</a> regroups most of the methods described here.
+Currently under construction, the various analyses will be progressively completed. In the meantime, the publication <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521294">A subset of pro-inflammatory CXCL10+ LILRB2+ macrophages derives from recipient monocytes and drives renal allograft rejection</a> regroups most of the methods described here.
 
 <!-- pages/projects.md -->
 <div class="projects">
