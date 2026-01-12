@@ -9,11 +9,11 @@ horizontal: false
 ---
 This portfolio presents a selection of bioinformatic methods I routinely use. While this list reflects my current expertise, I can also implement new analyses upon request, provided that relevant R packages or Python libraries are available.
 
-To support computationally intensive projects, I have access to the <a href="https://meso.univ-fcomte.fr/" target="_blank" rel="noopener noreferrer">Mésocentre de Franche-Comté</a> supercomputing facilities. This includes high-memory nodes (up to 1TB RAM) for large-scale data processing (e.g., expression matrices with millions of cells) and Nvidia A100 40GB GPUs for machine learning and AI model training and inference (e.g. bioinformatic algorithms implemented in Python taking advantage of GPU-accelerated computing).
+To support computationally intensive projects, I have access to the <a href="https://meso.univ-fcomte.fr/" target="_blank" rel="noopener noreferrer">Mésocentre de calcul de Franche-Comté</a> supercomputing facilities. This includes high-memory nodes (up to 1TB RAM) for large-scale data processing (e.g., expression matrices with millions of cells) and Nvidia A100 40GB GPUs for machine learning and AI model training and inference (e.g. bioinformatic algorithms implemented in Python taking advantage of GPU-accelerated computing).
 
 For questions or collaboration inquiries, you can reach me using the links in the navigation bar of the <a href="{{ '/' | relative_url }}">Contact</a> section.
 
-Currently under construction, the various analyses will be progressively completed. In the meantime, the publication <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521294">A subset of pro-inflammatory CXCL10+ LILRB2+ macrophages derives from recipient monocytes and drives renal allograft rejection</a> regroups most of the methods described here.
+Currently under construction, the various analyses will be progressively finalized (complete: <a href="{{ '/projects/sc_pseudotime.html' | relative_url }}">Pseudotime</a>). In the meantime, the publications <a href="https://www.kidney-international.org/article/S0085-2538(25)00512-5/fulltext">Multi-omic factor analyses uncovered cross-compartment complexity of biological processes in kidney transplantation</a> and <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202521294">A subset of pro-inflammatory CXCL10+ LILRB2+ macrophages derives from recipient monocytes and drives renal allograft rejection</a> regroup most of the methods described here.
 
 <!-- pages/projects.md -->
 <div class="projects">
