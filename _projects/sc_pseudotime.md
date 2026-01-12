@@ -24,7 +24,7 @@ Among the <a href="https://github.com/agitter/single-cell-pseudotime">many metho
     </div>
 </div>
 <div class="caption">
-    Figure 1: Examples of pseudotime analysis on classical monocyte differentiation to non-classical monocytes or macrophages from {% cite Varin2025.04.21.25324260 %} with three methods. A: Trajectories obtained from <a href="https://github.com/kstreet13/slingshot">slingshot</a>. B: MST structure obtained from <a href="https://github.com/Winnie09/Lamian">Lamian</a>. C: Trajectories obtained from <a href="https://cole-trapnell-lab.github.io/monocle3/">Monocle3</a>.
+    Figure 1: Examples of pseudotime analysis on classical monocyte differentiation to non-classical monocytes or macrophages from {% cite Varin2026-tn %} with three methods. A: Trajectories obtained from <a href="https://github.com/kstreet13/slingshot">slingshot</a>. B: MST structure obtained from <a href="https://github.com/Winnie09/Lamian">Lamian</a>. C: Trajectories obtained from <a href="https://cole-trapnell-lab.github.io/monocle3/">Monocle3</a>.
 </div>
 
 <br>
@@ -47,6 +47,7 @@ Finally, you can find additional examples of slingshot and tradeSeq use in {% ci
 <br>
 <br>
 <br>
+
 
 
 
