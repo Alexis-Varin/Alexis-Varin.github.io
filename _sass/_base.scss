@@ -848,6 +848,11 @@ footer.sticky-bottom {
             text-decoration: underline;
           }
         }
+        .altmetric-embed {
+          position: relative;
+          top: 2px;          // tweak 2–6px to taste
+          vertical-align: middle;
+  }
       }
 
       .hidden {
